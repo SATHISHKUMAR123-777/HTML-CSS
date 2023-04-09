@@ -1,0 +1,135 @@
+body{
+    background-color: red;
+}
+.containe{
+    background-color: white;
+    margin: 30px 30px 30px 30px;
+}
+h1{
+
+    text-align: center;
+     /* border-bottom: 1px solid red;    */
+     /* width: 1000px; */
+     font-size: 50px;
+     font-family: Arial, Helvetica, sans-serif;
+     text-decoration: underline red;
+}
+.con{
+    text-align: center;
+    height: 50px;
+}
+.con1{
+    
+    width: 700px;
+    margin: 0 auto;
+   
+}
+.call{
+    background-color: white;
+}
+.clock1{
+    background-color:white;
+    color:red;
+    border: 10px solid red;
+    border-radius: 50%;
+    font-size: 30px;
+    
+}
+.sub1{
+    margin-top: 20px;
+    margin-left: 15px;
+    
+}
+
+input{
+
+    width: 500px;
+    height: 50px;
+    border: 1px solid blue;
+   margin-top: 40px;
+    
+}
+.email{
+    margin-top: 10px;
+}
+.text{
+    margin-top: 10px;
+    margin-left: 800px;
+}
+
+.sub2{
+    margin-top: 40px;
+    margin-left: 15px;
+    
+}
+.sub3{
+    margin-top: 40px;
+    margin-left: 15px;
+    
+}
+.bod
+{
+    width: 700px;
+
+}
+.inp1{
+    position: absolute;
+    top: 300px;
+    left: 800px;
+
+}
+/* .icon1{
+    
+    color: white;
+    font-size: 50px;
+     background-color: red; 
+    border-radius: 50%;
+}  */
+
+
+/* .container{
+    background-color: blue;
+}
+ul{
+    background-color: aqua;
+    text-align: center;
+    list-style-type: none;
+
+    border-top: 1px solid green;
+    
+}
+ul li{
+    margin:0 5rem;
+    float: left;
+    line-height: 20px;
+}
+.sub{
+    line-height: 20px;
+    
+    border-bottom: 1px solid green;
+}
+.sub1{
+    float: right;
+}
+.ga{
+    background-color: blue;
+    width: 40%;
+}
+ .sa{
+    color: brown;
+    text-align: right;
+} 
+.super{
+    text-align: right;
+    margin: 0 6rem;
+}
+.icon{
+    color: red;
+    font-size: 20px;
+    float: left;
+    word-spacing: 100px;
+}
+i:hover{
+    background-color: yellow;
+    border-bottom: 3px solid green;
+}  */
