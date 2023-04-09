@@ -1,0 +1,32 @@
+ h1{
+    text-align: center;
+} 
+table,th,td{
+    color:black;
+     text-align: center; 
+     height: 50px;
+    /* vertical-align: bottom;  */
+    /* border-bottom: 3px solid green; */
+    padding-left: 10px;
+     
+}
+ tr:nth-last-of-type(odd){
+    background-color:#3f3c47;
+} 
+/* :nth-child(even)
+{
+    background-color: #3f3c47;
+} */
+td{
+    width: 200px;
+    color: blue;
+}
+button{
+    background-color: blue;
+}
+.open1{
+    background-color: brown;
+}
+.progress{
+    background-color:green;
+}

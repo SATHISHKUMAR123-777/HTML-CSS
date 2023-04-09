@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+}
+table,th,td{
+    line-height: 50px;
+    width: 1000px;
+    text-align: left;
+    border-collapse: collapse;
+}
+tbody tr:nth-child(odd){
+    background-color: aqua;
+}
+.s1{
+    background-color: green;
+    color: white;
+}
+.s3{
+    background-color: yellow;
+}
+.s2{
+    background-color: red;
+    color: white;
+}
+.r1{
+    font-weight: bold;
+}

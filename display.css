@@ -1,0 +1,24 @@
+table{
+    height: 70px;    
+    background-color: blue;
+    color: white;
+     /* margin-left: 200px;   */
+}
+.con:hover{
+    background-color:red;
+    /* word-spacing: 30px; */
+}
+a{
+    
+    border-bottom: 7px solid white;
+    color: white;
+}
+th{
+    text-align: center;
+      width: 200px; 
+     
+}
+.conn {
+     margin-top: 100pxś;
+    background-color: greenyellow;
+}

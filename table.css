@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+}
+table,th,td{
+    border-collapse: collapse;
+    border:1px solid black;
+    width: 1000px;
+    height: 50px;
+    text-align: center;
+}
+.con2{
+    font-weight: bold;
+    font-size: 30px;
+    /* text-align-last: center; */
+    /* writing-mode: horizontal-tb; */
+}
+.t1{
+    font-weight: bolder;
+}
+.con3{
+    border: 8px solid  black;
+} 
