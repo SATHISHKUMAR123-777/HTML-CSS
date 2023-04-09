@@ -1,0 +1,90 @@
+body{
+    background-image: linear-gradient(to right,yellow,orange, red 60%);
+    
+}
+ .div1{
+  height: 350px;
+  width: 780px;
+  background-color: white;
+  margin: 0 auto;
+  margin-top: 150px;
+  border-radius: 15px;
+  
+} 
+.div2{
+    background-image: linear-gradient(to right,orange, red 50%);
+    height: 250px;
+    width: 300px;
+    position: relative;
+    bottom: 300px;
+    left: 220px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px red; 
+}
+.div3{
+    margin-left: 200px;
+    position: relative;
+    top: 80px;
+    left: 150px;
+}
+.div4{
+    position: relative;
+    top:70px;
+    left: 350px;
+}
+.div5{
+    position: relative;
+    top: 60px;
+    left: 350px;
+}
+.div6{
+    
+    position: relative;
+    top:70px;
+    left: 350px;
+}
+button{
+    background-image: linear-gradient(to right,orange, red 50%);
+    height: 40px;
+    width: 150px;
+    border-radius: 15px;
+    border: 1px rgb(231, 24, 24);
+}
+.div7{
+    height: 20px;
+    width: 6px;
+    border-radius: 5px;
+    border: 2px solid red;
+    background-color: red;
+    position: relative;
+    left: 750px;
+    bottom:30px;
+
+
+} 
+.div8{
+    height: 8px;
+    width: 8px;
+    border-radius: 20px;
+    border: 2px solid rgb(231, 220, 220);
+    background-color: rgb(231, 220, 220);
+    position: relative;
+    left: 749px;
+    bottom:22px;
+
+
+} 
+.div9{
+    height: 8px;
+    width: 8px;
+    border-radius: 20px;
+    border: 2px solid rgb(231, 220, 220);
+    background-color: rgb(231, 220, 220);
+    position: relative;
+    left: 749px;
+    bottom: 85px;
+
+
+} 
+
+

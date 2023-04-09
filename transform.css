@@ -1,0 +1,91 @@
+body{
+        background-color:rgb(251, 6, 47) ;
+}
+.container{
+    margin-left: 150px;
+}
+.div{
+    background-color: white;
+    height: 550px;
+    width: 300px;
+    border-radius: 20px;
+    margin-left: 500px;
+    margin-top:50px;
+    transform: rotate(10deg);
+    box-shadow:5px 5px  10px 10px black;
+}
+.hg{
+    position: absolute;
+    top: 10px;
+}
+.div1{
+    
+    margin-top: 50px;
+    margin-left: 30px;
+}
+ .div2{
+    height: 479px;
+    width: 300px;
+    border-radius: 20px;
+    position: absolute;
+    bottom: 60px;
+    left: 150px;
+    top: 70px;
+     margin-left: 500px;
+    margin-top:50px;  
+    transform: rotate(10deg);
+    border: 1px solid black;
+} 
+.div3{
+    margin-left: 30px;
+
+} 
+.star{
+    float: left;
+    margin-top: 340px;
+    font-size: 20px;
+}
+.div4{
+  float: left;
+  margin-top: 340px;
+  font-size: 20px;
+
+}
+.div5{
+    background-color: black;
+    height:400px;
+    width:300px;
+    border-radius: 25px;
+    position: relative;
+    left: 50px;
+}
+.div7{
+    color: white;
+    margin-left: 30px;
+    margin-top: 30px;
+    position: relative;
+    top: 30px;
+}
+.div8{
+    color: white;
+    margin-top: 410px;
+    margin-left: 30px;
+    font-size: 20px;
+}
+.star1{
+    color: white;    
+}
+.div5{
+    height: 500px;
+    margin-left: 200px;
+    z-index: -1;
+    margin-top: 0px;
+    transform: rotate(-10deg);
+    bottom: 550px;
+    /* position: relative;
+    bottom: 5px; */
+}
+.star1{
+    position: relative;
+    top: 50px;
+}

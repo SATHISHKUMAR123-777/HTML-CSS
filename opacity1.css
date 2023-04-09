@@ -1,0 +1,79 @@
+body{
+    background-image: url("https://www.deccanherald.com/sites/dh/files/styles/article_detail/public/articleimages/2021/01/05/group-discussion-istock-603992138-935358-1609832067.jpg?itok=PhaKqkZM");
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+.back1{
+background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0.62),aqua);
+width: 100vw;
+height: 650px;
+opacity: 0.7;
+
+}
+.star{
+    color: white;
+    font-size: 20px;
+}
+
+.agency{
+    color: white;
+    font-size: 20px;
+}
+.left{
+    float: left;
+}
+ul li{
+
+    list-style-type: none;
+    display: inline;
+    /* color: white; */
+}
+.right{
+    float: right;
+}
+.menu{
+     background-color:aqua;
+    /* border: 1px solid aqua; */
+     text-align: center;
+     margin-top: 10px;
+     height: 30px;
+    width: 40px; 
+    font-size: 30px;
+    margin-top: 40px;
+    color:white;
+    margin-right: 20px;
+}
+.head{
+    font-size: 40px;
+     float: left;
+    margin-left: 200px;
+}
+h1{
+    color: white;
+    position: relative;
+    top: 220px;
+}
+p{
+    margin-top: 220px;
+    font-size: 25px;
+    margin-left: 60px;
+}
+.btn{
+    float: left;
+}
+.btn1{
+    margin-top: 100px;
+    margin-left: 500px;
+    height: 30px;
+    width: 180px;
+    border-color: white;
+}
+.btn2{
+    color: black;
+    background-color: rgba(0, 255, 255, 0);
+    border: 2px solid white;
+    margin-top: 100px;
+    margin-left: 100px;
+    height: 30px;
+    width: 180px;
+}

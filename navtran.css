@@ -1,0 +1,23 @@
+.div1{
+    background-color: blue;
+    height: 60px;
+    font-size: 20px;
+    transition-property: font-size;    
+    transition-duration: 5s;
+    transition-delay: 1s;
+
+}
+.div1:hover{
+    font-size: 40px;
+    background-color: #ddd;
+    color: red;
+    text-shadow: 0px;
+}
+ul{
+     list-style-type: none;
+    display: inline;
+    padding:70px 50px;  
+}
+li{
+    display: inline;
+}

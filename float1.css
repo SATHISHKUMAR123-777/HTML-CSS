@@ -1,0 +1,158 @@
+body{
+    background-color: yellow;
+}
+/* .container{
+    height: 50px;
+    width: 100%;
+    background-color: red;
+}
+.container1{
+    height: 50px;
+    width: 100%;
+    background-color: red;
+}
+.container2{
+    height: 50px;
+    width: 100%;
+    background-color: red;
+}
+.container3{
+    height: 50px;
+    width: 100%;
+    background-color:blue;
+} */
+
+.left{
+    float: left;
+}
+ul li{
+    display: inline;
+    padding: 5px;
+    margin-left: 30px;
+}
+.line{
+    text-decoration: underline;
+}
+.right{
+    float: right;
+    
+}
+
+li{
+    list-style-type: none;
+   display: inline; 
+   padding: 5px;
+   
+}
+/* .r1{
+    background-color: aqua;
+    height: 100px;
+    font-weight: 100px;
+} */
+.search{
+    border: 1px solid white;
+    height: 30px;
+    width: 100px;
+    border-radius: 30%;
+}
+.hs{
+    /* float: left; */
+    /* margin-right: 0px; */
+    position: absolute;
+    top:20px;
+    left: 10px;
+}
+.h1{
+    position: absolute;
+    top:60px;
+    left: 35px;
+}
+.div1{
+    float: left;   
+    width: 1200px;
+}
+.s1{
+float: left;
+/* margin-left: 30px;  */
+padding-left: 0px;   
+    
+}
+
+.div2{
+    float: left;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.c1{
+    font-size: 70px;
+    margin-bottom:  40px;
+}
+.gf{
+    position: relative;
+    top: 50px;
+}
+.btn1{
+    height: 40px;
+    width: 180px;
+    border: 1px solid blue;
+    border-radius: 30%;
+    background-color: blue;
+    color: white;
+}
+.img1{
+    float: left;
+}
+img{
+    margin-top: 70px;
+    height: 500px;
+    width: 400px;
+}
+.div3{
+    float: left;
+    margin-top: 120px;
+}
+.box{
+    width:400px;
+    height: 20px;
+    border-radius: 30px;
+    color: black;
+    border: 1px solid black;
+}
+.box1{
+    margin-top: 10px;
+    width:400px;
+    height: 50px;
+    border-radius: 30px;
+    color: black;
+    border: 1px solid black;
+}
+.box2{
+    margin-top: 10px;
+    width:400px;
+    height: 50px;
+    border-radius: 30px;
+    color: black;
+    border: 1px solid black;
+}
+.ps{
+    text-decoration: underline;
+    float: left;
+}
+.ps1{
+    float: left;
+    bottom: 30px;
+    margin-left: 40px;
+    text-decoration: underline;
+}
+.btn2{
+    height: 40px;
+    width: 180px;
+    border: 1px solid blue;
+    border-radius: 30px;
+    background-color: blue;
+    color: white;
+    margin-top: 50px;
+    position: relative;
+    right: 200px;
+
+}

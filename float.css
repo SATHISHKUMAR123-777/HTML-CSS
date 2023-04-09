@@ -1,0 +1,63 @@
+img{
+    height: 300px;
+    width: 400px;
+    float: left;
+}
+.black{
+    background-color: black;
+    color: white;
+    text-align: center;
+   
+    width: 400px;
+    height: 300px;
+    float: left;
+}
+.div2{
+    padding: 20px;
+    text-align: center;
+
+}
+button{
+    background-color: orangered;
+    width: 150px;
+    height: 35px;
+}
+.img2{
+    height: 300px;
+    width: 400px;
+    float: left;
+}
+.super{
+    background-color: gray;
+    color: black;
+    text-align: center;
+       height: 300px;
+    width: 400px;
+    float: left;
+}
+.sup{
+    padding: 20px;
+}
+.img3{
+    height:300px;
+    width: 400px;
+    float: left;
+}
+.super1{
+    background-color: orangered;
+    color: white;
+    
+    height: 300px;
+    width: 400px;
+    float: left;
+}
+.sub1{
+    text-align: center;
+    padding: 20px;
+}
+.bus{
+    background-color: white;
+    color: black;
+    width: 150px;
+    height: 35px;
+}

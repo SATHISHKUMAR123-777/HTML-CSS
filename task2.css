@@ -1,0 +1,58 @@
+div{
+     height: 600px;
+    width: 800px; 
+    margin-top: 30px;
+    margin-left: 200px;
+    /* margin: 0 auto; */
+    background: linear-gradient(orange,yellow,brown);
+    
+
+}
+.img1{
+
+
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    margin-top: 30px;
+    margin-left: 200px;
+    /* margin: 0 auto; */
+}
+.l1{
+    margin-top: 30px;
+    margin-left: 120px;
+    font-size: 50px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+}
+.p1{
+    font-size: 20px;
+    margin-left: 170px;
+    color: white;
+}
+.face{
+    color: white;
+    font-size: 25px;
+    /* margin-top: 300px; */
+    margin-left: 200px;
+}
+.face1{
+    color: white;
+    font-size: 25px;
+    /* margin-top: 400px; */
+    margin-left: 30px;
+
+}
+.face2{
+        color:white;
+    font-size: 25px;
+    /* margin-top: 400px; */
+    margin-left: 30px;
+}
+.ins{
+    color:white;
+font-size: 25px;
+/* margin-top: 400px; */
+margin-left: 30px;
+}

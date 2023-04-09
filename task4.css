@@ -1,0 +1,42 @@
+
+img{
+  float: right;
+}
+.h1{
+    background-color: orange;
+    margin-left: 80px;
+    padding: 30px; 
+    margin-top: 250px;
+    width: 300px;
+    float: right;
+    color: white;
+    position: relative;
+    top:50px;
+    left: 300px;
+}
+.p1{
+    position: relative;
+    top: 500px;
+    left: 800px;
+     width: 600px;
+    height: 80px; 
+  
+}
+/* .p{
+  width: 50px;
+} */
+.cli{
+  position: relative;
+  top: 500px;
+  left: 830px;
+  color: black;
+  background-color: white;
+} 
+button{
+  height: 30px;
+  width: 150px;
+}
+pre{
+  text-indent: 35px;
+  font-family: 'Times New Roman', Times, serif;
+}

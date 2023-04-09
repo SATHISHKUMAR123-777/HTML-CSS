@@ -1,0 +1,118 @@
+ .container{
+    border: 10px solid red;
+    background-color:white;
+    /* box-shadow: 10px 10px 10px 20px red; */
+    margin-top: 50px;
+    margin-left: 20px;
+    height: 550px;
+    width: 400px;
+    
+}
+.stars{
+    margin-top: 30px;
+    margin-left: 10px;
+    font-size: 20px;
+    color: yellow;
+    float: left;
+}
+.super{
+    margin-left: 10px;
+    float: left;
+}
+.su{
+    margin-top: 10px;
+    float: left;
+    margin-left: 100px;
+    font-size: 30px;
+    padding: 10px;
+}
+h1{
+    margin-top: 100px;
+    margin-left: 10px;
+    
+}
+.sub{
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: 20px;
+
+}
+.colo{
+    margin-left: 10px;
+} 
+.radius{
+        
+        margin-top: 10px;
+        margin-left: 80px;
+}
+ .num{
+    margin-left: 80px;
+} 
+.pink{
+    color: pink;
+    margin-left: 10px;
+}
+.icon{
+    color: red;
+    margin-left: 20px;
+    border: 10px solid black;
+    border-radius: 80%;
+}
+.yel{
+    color: yellow;
+    margin-left: 20px;
+}
+.green{
+    color: green;
+    margin-left: 20px;
+}
+.icon1{
+    margin-left: 20px;
+    border: 10px solid black;
+    float: left;
+}
+
+
+.color{
+    margin-top: 5px;
+    margin-left: 80px;
+    float: left;
+    
+}
+
+.n1{
+    margin-left: 20px;
+    float: left;
+    padding: 1px;
+}
+.n2{
+    margin-left: 20px;
+    border: 2px solid gray;
+    border-radius: 50%;
+    float: left;
+    padding: 1px;
+}
+.n3{
+    margin-left: 20px;
+    float: left;
+    padding: 1px;
+}
+.n4{
+    margin-left: 30px;
+    float: left;
+    padding: 1px;
+}
+.butt{
+      margin-top: 40px;
+      margin-left: 150px;
+    text-align: center;
+    background-color: red;
+    color: white;
+    border-radius: 30%;
+
+}
+.list{
+    margin-top: 30px;
+    text-decoration: underline;
+    text-align: center;
+}

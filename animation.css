@@ -1,30 +1,23 @@
 div{
-     /* text-align: center; */
-    /* word-spacing: 20px; */
-    letter-spacing: 20px;
-    margin-top: 300px; 
-    margin-left: 500px;
-    padding: 1px;
-    width: 30px;
-    animation-duration: 5s;
-    animation-name: sathish;
+   
+    animation-name: my-animation;
+    animation-duration: 2s;
+    animation-direction: alternate;
     animation-iteration-count: infinite;
-    animation-direction: alternate;   
-    background-color: black;
-    position: fixed;
+    animation-timing-function: linear;
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    margin-top: 300px;
 }
-@keyframes sathish{
-    from{
-        margin-right: 200px;
-        width: 300px;
-        color: rgb(68, 49, 49);
-        color: white;
-        background-color: black;
-    }
-    to{
-         margin-left: 50%;
-        /* color:rgb(68, 49, 49); */
-        color: white;
-        background-color: black;
-    }
-}
+
+/* .button{
+    background-color: pink;
+    text-decoration: none;
+    color: red;
+    border: 1px solid pink;
+    height: 50px;
+    border-radius: 25px;
+    padding: 5em;
+    
+} */

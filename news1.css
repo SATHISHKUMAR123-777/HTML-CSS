@@ -1,0 +1,101 @@
+body{
+    background-color: aqua;
+}
+.container{
+    /* height: 100px;
+    width: 1000px; */
+
+    /* background-color: red; */
+    /* margin-left: 100px;
+    margin-top: 80px; */
+    margin: 0 auto;
+}
+main{
+    background-color:red;
+}
+.hr1{
+    border: 3px solid black;
+    width: 900px;
+}
+h4{
+    position: relative;
+    top:20px;
+    left: 45px;
+
+}
+h1{
+    font-size: 100px;
+    
+    text-align: center;
+     margin-top: 3px;
+    /*margin-left: 50px; */
+}
+h2{
+    height: 40px;
+    width: 900px;
+    background-color: black;
+    color: white;
+    position: relative;
+    bottom: 60px;
+    left: 50px;
+    padding-top: 20px;
+    text-align: center;
+}
+h6{
+    float: left;
+    position: relative;
+    bottom: 90px;
+    left: 50px;
+    text-decoration: underline;
+    font-size: 15px;
+
+}
+h5{
+    float: right;
+    position: relative;
+    margin-top: 35px;
+    bottom: 90px;
+    right: 50px;
+    text-decoration: underline;
+    font-size: 15px;
+}
+.hr2{
+    border: 1px solid black;
+    width: 920px;
+    position: relative;
+    bottom: 110px;
+    right: 30px;
+}
+p{
+    margin-left: 40px;
+    margin-right: 35px;
+    position: relative;
+    bottom: 100px;   
+    column-count: 4;
+    text-align: justify;
+}
+span{
+    font-weight: bold;
+    /* font-family: 'Courier New', Courier, monospace; */
+}
+.div1{
+    background-color: white;
+    height: 700px;
+    width: 1000px;
+    margin: 0 auto;
+}
+.border{
+    border: none;
+    background-color: white;
+}
+.sp{
+    color: white;
+}
+h3{
+ 
+    position: relative;
+    bottom: 200px;
+    left: 870px;
+    
+}
+

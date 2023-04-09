@@ -1,0 +1,114 @@
+body{
+     background-color: rgb(218, 208, 208); 
+    height: 460px;
+}
+span{
+    color: red;
+}
+h1{
+    color: white;
+    margin-left: 200px;
+    float: left;
+    position: relative;
+    top: 20px;
+}
+.p1{
+    color: white;
+    margin-left: 330px;
+    float: left;
+}
+.p2{
+    color: white;
+    margin-left: 50px;
+    float: left;
+    position: relative;
+    bottom: 20px;
+}
+.loca{
+      position: relative;
+      top:40px;
+       left: 300px;
+      font-size: 20px;
+      color: yellow;
+}
+.clock{
+    position: relative;
+    top: 20px;
+    left: 20px;
+    color: red;
+    font-size: 20px;
+}
+.navi{
+    margin-left: 200px;
+    float: left;
+    background-color: white;
+    width: 900px;
+    border-radius: 25px;
+
+}
+ul li{
+    list-style-type: none;
+    margin-left: 10px;
+    display: inline;
+    }
+.l1{
+    color: red;
+}
+.fa2{
+    color: blue;
+    margin-right: 50px;
+    float: right;
+}
+.fa{
+    color: yellow;    
+    margin-right: 40px;
+    float: right;
+}
+ .fa1{
+    color: green;
+    padding-right: 50px;
+    float: right;
+} 
+
+.hs{
+    color: red;
+    margin-left: 650px;
+    position: relative;
+    bottom: 100px;
+    z-index: -1;
+}
+.se{
+    
+    position: absolute;
+    top: 250px;
+    left: 200px;
+
+}
+.p11{
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.space{
+    color: white;
+    position: absolute;
+    top: 260px;
+    left: 1px;
+    font-size: 40px;
+}
+.para{
+    color: white;
+    position: absolute;
+    top: 370px;
+    left: 200px;
+}
+.bu{
+    border: 1px red;
+    background-color: red;
+    width: 150px;
+    height: 40px;
+    color: white;
+    position: absolute;
+    top: 440px;
+    left: 200px;
+    border-radius: 20px 0 20px 0;
+}

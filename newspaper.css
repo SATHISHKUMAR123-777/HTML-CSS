@@ -1,0 +1,296 @@
+body{
+    background-color: aquamarine;
+}
+.main{
+    background-color: white;
+    height: 1800px;
+    width: 100%;
+}
+.div{
+    /* background-color: red; */
+    width: 100%;
+}
+ul li{
+    list-style-type: none;
+    display: inline;
+    
+}
+.lo{
+    background-color: pink;
+    float: left;
+    border-top: 1px solid pink;
+    border-radius: 50%;
+    height:100px;
+    width: 100px; 
+    position: absolute;
+    top: 20px;
+    left: 30px;
+    padding-top: 40px;
+    padding-left: 35px;
+    font-size: 25px;
+    color: white;
+
+}
+.l1{
+    background-color: rgb(18, 71, 71);
+    margin-left: 237px;
+    border: 1px solid  rgb(18, 71, 71);
+    height: 30px;
+    width: 350px;
+    text-align: center;
+    font-size: 20px;
+    float: left;
+    color: white;
+}
+.l2{
+    background-color: rgb(25, 25, 161);
+    /* margin-left: 600px; */
+    border: 1px solid  rgb(25, 25, 161);
+    height: 30px;
+    width: 350px;
+    text-align: center;
+    font-size: 20px;
+    float: left; 
+    color: white;
+}
+.l3{
+    background-color: gray;
+    /* margin-left: 600px; */
+    border: 1px solid  gray;
+    height: 30px;
+    width: 350px;
+    text-align: center;
+    font-size: 20px;
+    float: left; 
+    color: white;
+}
+.b1{
+     position: relative;
+     top:5px;
+     left:170px;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     float: left;
+     color: gray;
+}
+.b2{
+    position: relative;
+    top:5px;
+    left:500px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    float: left;
+    color:  gray;
+}
+.b3{
+    position: relative;
+    top:5px;
+    left:980px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    float: left;
+    color: gray;
+}
+.hr1{
+width: 500px;
+color: gray;
+border: 1px solid green;
+position: relative;
+top:80px;
+right: 80px;
+
+}
+.news{
+    position: relative;
+    top: px;
+    margin-left: 100px;
+    font-size: 70px;
+}
+.new{
+    color: rgb(35, 35, 171);
+}
+.on{
+    color: gray;
+    bottom: 30px;
+}
+.black{
+    color: black;
+}
+.hr2{
+    width: 500px;
+    color: gray;
+    border: 1px solid green;
+    position: relative;
+    bottom: 80px;
+    right: 80px;   
+} 
+.imag1{
+    float: left;
+    
+}
+img{
+    height: 300px;
+    width: 666px;
+}
+.im{
+background-color: blue;
+position: relative;
+bottom: 40px;
+padding: 25px;
+color: white;
+}
+.imag2{
+    float: left;
+}
+.im2{
+        background-color: rgb(34, 29, 29);
+        position: relative;
+        bottom: 40px;
+        padding: 25px;
+        color: white;
+
+}
+.po{
+    float: left;
+}
+.p1{
+    font-size: 40px;
+    padding: 30px;
+    position: relative;
+    bottom: 60px;
+    
+}
+.p2{
+    height: 100px;
+    width: 400px; 
+    text-align: justify;
+    position: relative;
+    bottom: 180px;
+    padding: 25px;
+    color: rgb(87, 49, 223);
+}
+
+.p3{
+    height: 100px;
+    width: 400px;
+    text-align: justify;
+    position: relative;
+    bottom: 190px;
+    padding: 25px;
+}
+.sk{
+    
+    position:relative;
+    bottom: 935px;
+    left: 440px;
+    float: left;
+}
+.sc{
+    height: 400px;
+    width: 850px;
+}
+.main1{
+    display: flex;
+    position: absolute;
+    top: 1300px;
+}
+.main2{
+    float: left;
+        position: absolute;
+    margin-left: 5px;
+ padding: 25px; 
+    
+}
+.img1{
+
+
+    width: 300px;
+    position: relative;
+    
+    
+}
+.life{
+    
+    background-color: pink;
+    width: 300px;
+    bottom: 200px;
+}
+.ca{
+    position: relative;
+    text-align: justify;
+    width: 290px;
+}
+.main3{
+    float: left;
+}
+
+.c1{
+    position: relative;
+    left: 500px;
+    bottom: 30px;
+    background-color: red;
+    color: white;
+    width: 400px;
+}
+.col1{
+    background-color: blue;
+}
+.col2{
+    background-color:red ;
+}
+.col3{
+    background-color: brown;
+}
+
+
+/* .y1{
+    float: left;
+}
+.fd{
+    position: relative;
+    bottom: 900px;
+    background-color: pink;
+    color: white;
+    width: 400px;
+    height: 60px;
+}
+.vc{
+    padding: 25px;
+    text-align: justify;
+    position: relative;
+    bottom: 930px;
+    border: 1px solid red;
+    height: 300px;
+    width: 400px;
+    float: left;
+
+}
+.hg{
+    float: left;
+    position: relative;
+    padding: 25px;
+    bottom: 920px;
+    text-align: justify;
+    
+    
+    
+} */
+
+/* }
+figcaption{
+    color: white;
+    background-color: blue;
+    width: 550px;
+    height: 40px;
+    padding-left: 50px;
+    padding-top: 20px;
+    font-size: 20px;  
+} */
+/* .imag2{
+    float: right;
+    position: relative;
+    bottom: 210px;
+} */
+
+
+.div11{
+    margin-left: 25px;
+    
+}

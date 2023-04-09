@@ -1,0 +1,139 @@
+.div1{
+background-image: url("https://assets.weforum.org/article/image/large_Z6iBGfawFhoJKFt_4mXR3rB38vsYT0Q4eQnDgNbyLKs.jpg");
+background-repeat: no-repeat;
+background-size: cover; 
+height: 400px;
+width: 100%;
+
+}
+
+.div2{
+    float: right;
+    padding-left: 800px;
+    margin-right: 300px;
+    margin-top: 100px;
+    
+}  
+h1{
+    font-size: 40px;
+}
+.ro{
+    height: 200px;
+    width: 600px;
+    margin-top: 40px;
+    margin-left: 20px;
+    float: left;
+}
+h2{
+    font-size: 20px;
+}
+.ro1{
+    margin-left: 20px;
+    margin-top: 40px;
+    height: 200px;
+    width: 550px;
+}
+.img2{
+    background-image: url("https://media.istockphoto.com/id/1206796363/photo/ai-machine-learning-hands-of-robot-and-human-touching-on-big-data-network-connection.jpg?s=1024x1024&w=is&k=20&c=lqHbBScxwQa3wcTySqNOYwyJhUIPB1V4m1PtSIK9BdQ=");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 550px;
+    float: left;
+    margin-top: 40px;
+    padding: 20px;
+}
+h2{
+    font-size: 20px;
+}
+.div3{
+    height: 300px;
+    width: 600px;
+    margin-top: 40px;
+    float: left;
+    background-color: black;
+    margin-left: 20px;
+    }
+.div4{
+    margin-left: 20px;
+    color: white;
+    /* padding-left: 80px; */
+   
+}
+.img4{
+    height: 100px;
+    width: 100px;
+    float: right;
+    margin-left: 1px;
+}
+.img5{
+    margin-top: 20px;
+    height: 100px;
+    width: 100px;
+    padding-top: 150px;
+}
+.div5{
+    background-color: aqua;
+    height: 300px;
+    width: 600px;
+
+    float: left;
+    margin-top: 40px;
+}
+.font{
+    color: white;
+    font-size: 20px;
+    height: 130px;
+    width: 400px;
+   background-color: brown;
+    float: left;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.font1{
+    height: 50px;
+    width: 100px;
+    margin-left: 50px;
+    
+
+}
+.img6{
+    height: 130px;
+    width: 400px;
+    margin-top: 10px;
+}
+.space{
+    margin-left: 25px;
+}
+.div7{
+    float: left;
+    margin-top: 50px;
+}
+.img7{
+    height: 270px;
+    width: 400px;
+    margin-left: 10px;
+}
+.div8{
+    background-color: aquamarine;
+    float: left;
+    margin-top: 50px;
+    height: 270px;
+    width: 400px;
+    margin-left: 10px;
+    
+}
+.p1{
+    margin-left: 15px;
+    
+}
+.div9{
+    float: left;
+    margin-left: 600px;
+    margin-top: 50px;
+}
+button{
+    height: 40px;
+    width: 150px;
+    background-color: aquamarine;
+}

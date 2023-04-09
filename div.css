@@ -1,0 +1,96 @@
+.super{
+    background-color: orange;
+    color: white;
+    height: 250px;
+    width: 470px;
+    float: left;
+
+}
+.box{
+    background-color: orange;
+    color: white;
+    margin-top: 30px;
+    width: 80px;
+    height: 30px;
+    border: 0px solid orange;
+}
+.sub{
+    margin-left: 30px;
+
+}
+.font{
+    font-family:  "Times New Roman", Times, serif;
+    font-size: 30px;
+}
+.super1{
+    background-color: rgb(9, 167, 229);
+    color: white;
+    height: 250px;
+    width: 430px;
+    float: left;
+
+}
+.box1{
+    
+        background-color: rgb(9, 167, 229);
+        color: white;
+        margin-top: 30px;
+
+        width: 80px;
+        height: 30px;
+        border: 0px solid rgb(9, 167, 229);
+    
+}
+.super2{
+    background-color: green;
+    color: white;
+    height: 250px;
+    width: 430px;
+    float: left;
+
+}
+.box2{
+    
+        background-color: green;
+        color: white;
+        margin-top: 30px;
+        width: 80px;
+        height: 30px;
+        border: 0px solid green;
+    
+}
+.div1{
+    margin-bottom: 50px;
+    height: 300px;
+    width: 430px;
+    float: left;
+}
+
+h1{
+    margin-top: 30px;
+    
+}
+.div2{
+    margin-left: 50px;
+    height: 250px;
+    width: 430px;
+    float: left;
+}
+.star{
+    color: blue;
+    margin-top: 40px;
+    font-size: 30px;
+}
+.f1{
+    font-size: 15px;
+}
+.f2{
+    font-size: 15px;
+
+}
+.div3{
+    margin-left:5px;
+    height: 250px;
+    width: 400px;
+    float: left;
+}

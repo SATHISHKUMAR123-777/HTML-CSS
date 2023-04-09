@@ -1,0 +1,408 @@
+.div{
+  background-image: url("https://media.istockphoto.com/id/1385092602/photo/business-team-meeting-and-discussing-to-audit-financial-planning-sales-financial-advisor.jpg?b=1&s=170667a&w=0&k=20&c=DdXu6L609FkB77iKDDWinPn-IRHGgTlkYyZwPseCW-Q=");
+   background-repeat: no-repeat;
+   background-size: cover;
+   width: 100%;
+  height: 400px;
+  
+}
+.div1{
+  background-color: red;
+  opacity: 0.5;
+  height: 400px;
+  width: 100%;
+}
+
+ul li {
+  list-style-type: none;
+
+}
+.bar{
+  font-size: 20px;
+  color: white;
+  float: left;
+  margin-top: 20px;
+}
+.star{
+  margin-left: 60px;
+  font-size: 20px;
+  color: white;
+  float: left;
+  margin-top: 20px;
+}
+.agency{
+  float: left;
+  font-size: 20px;
+  color: white;
+  margin-top: 20px;
+}
+.search{
+  float: right;
+  padding: 7px;
+  border: none;
+  border-radius: 30px;
+  font-size: 17px;
+  margin-top: 20px;
+}
+.h1{
+  color: white;
+  position:relative;
+  top: 100px;
+  left: 10px;
+  font-size: 60px;
+}
+.p1{
+  width: 400px;
+  position: relative;
+  top: 60px;
+  left: 380px;
+  text-align: justify;
+  color: white;
+}
+span{
+  padding: 40px;
+  color: white;
+}
+button{
+  position: relative;
+  top:50px;
+  left:470px;
+  width: 150px;
+  border-radius: 10px;
+  height: 30px;
+  background-color: black;
+  color: white;
+}
+.div2{
+    
+  height: 300px;
+  width: 100%;
+}
+.h2{
+  width: 600px;
+  position: relative;
+  top:20px;
+  left: 330px;
+  font-size: 30px;
+
+}
+.span2{
+  padding: 120px;
+  color: black;
+}
+.h3{
+  width: 200px;
+  font-size: 50px;
+  position: relative;
+  left: 550px;
+  bottom: 50px;
+}
+.glo{
+  height: 100%;
+  width: 100%;
+}
+.ss{
+  width: 200px;
+  position: relative;
+  left: 550px;
+  bottom: 90px;
+}
+.ss1{
+  width: 200px;
+  position: relative;
+  left: 520px;
+  bottom: 90px;
+}
+.div3{
+  background-color: black;
+  height: 200px;
+  
+}
+.camara{
+  
+  font-size: 50px;
+  margin-top: 0px;
+  margin-left: 300px; 
+  border-radius: 50%;
+  padding: 20px;
+  float: left;
+  border: 2px solid red;
+  color: red;
+}
+.radio{
+  
+  font-size: 50px;
+  /* height: 40px;
+  width: 40px; */
+  position: relative;
+  left: 200px;
+  bottom: 35px; 
+  border-radius: 50%;
+  border: 2px solid red;
+  color: red;
+  padding: 20px;
+  
+}
+.setting{
+  font-size: 50px;
+  position: relative;
+  left: 900px;
+  bottom: 180px;
+  border-radius: 50%;
+  border: 2px solid red;
+  color: red;
+  padding: 20px;
+}
+.ps{
+position: relative;
+top: 110px;
+left: 230px;
+color: white;
+}
+.ps1{
+  position: relative;
+  top: 145px;
+  left: 320px;
+  color: white;
+  width: 100px; 
+}
+.ps2{
+  position: relative;  
+  left: 920px;
+  bottom: 35px;
+  color: white;
+  width: 100px;
+ 
+}
+.div4{
+  background-image: url("https://img.freepik.com/free-photo/group-diverse-people-having-business-meeting_53876-25060.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+  height: 400px;
+  width: 100%;
+
+}
+.color{
+  background-color: red;
+  opacity: 0.5;
+  height: 400px;
+  width: 100%;
+  overflow: hidden;
+}
+ .ca{
+   position: relative;
+  left: 400px; 
+  top:40px;
+  color: white;
+} 
+.btn{
+    position: relative;
+    top:50px;
+    left:600px;
+    width: 150px;
+    border-radius: 10px;
+    height: 30px;
+    background-color: black;
+    color: white;
+
+}
+.div5{
+  
+height: 600px;
+  width: 100%;
+  overflow: hidden;
+}
+.step{
+  margin-left: 550px;
+  margin-top: 50px;
+}
+hr{
+  position: relative;
+  right: 280px;
+  width: 800px;
+}
+.ph1{
+  font-size: 50px;
+  border-radius: 50%;
+  padding: 20px;
+  float: left;
+  border: 2px solid red;
+  color: red;
+  position: relative;
+  right: 250px;
+  }
+  .cs{
+    position: relative;
+    top: 150px;
+    right: 400px;
+    
+  }
+  .n1{
+    position: relative;
+    top: 140px;
+    right: 430px;
+  }
+  .ph2{
+      font-size: 50px;
+      border-radius: 50%;
+      padding: 20px;
+      float: left;
+      border: 2px solid red;
+      color: red;
+      position: relative;
+      right: 00px;
+      bottom: 110px;
+      }
+      .cs1{
+        position: relative;
+        top: 55px;
+        right: 130px;
+      }    
+      .n11{
+        position: relative;
+        top: 45px;
+        right: 150px;
+      }
+      .ph3{
+        font-size: 50px;
+        border-radius: 50%;
+        padding: 20px;
+        float: left;
+        border: 2px solid red;
+        color: red;
+        position: relative;
+        left: 250px;
+        bottom: 210px;
+      }  
+      .cs2{
+        position: relative;
+        bottom: 50px;
+        left: 160px;
+
+      }
+      .n12{
+          position: relative;
+          /* top: 10px; */
+          left: 160px;
+          bottom: 50px;
+      }
+      .hr1{
+        position: relative;
+        bottom: 140px;
+      
+      }
+      .d1{
+        position: relative;
+        bottom: 140px;
+        right: 100px;
+      }
+      .buttu{
+      position: relative;
+       left: 130px;
+      bottom: 500px;   
+      }
+      .div6{
+         background-image: url("https://thumbs.dreamstime.com/b/couple-having-relationship-counselling-female-counsellor-31172858.jpg");
+         background-repeat: no-repeat;
+         background-size: cover;
+         height: 400px;
+         width: 100%;
+      }
+      .div7{
+        background-image: url("https://media.istockphoto.com/id/1369683259/photo/shot-of-a-mature-psychiatrist-sitting-with-her-patient-during-a-consultation-in-her-clinic.jpg?b=1&s=170667a&w=0&k=20&c=G-xr1AdeJw2r8PvbyZTi3CpJFvMiX0SoIwcAyKrZ5kk=");
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 400px;
+        width: 700px;
+        float: left;
+      }
+      .div8{
+        background-color: white;
+        float: left;  
+        width: 633px;
+        height: 400px;
+      }
+      .about{
+        margin-top: 100px;
+        margin-left: 100px;
+      }
+      .lo{
+    
+        margin-left: 100px;
+      }
+      .ba{
+        position: relative;
+        left: 0px;
+      }
+      .sf{
+          float: right; 
+      }
+      .div9{
+        height: 400px;
+        width: 700px;
+      float: left;
+      background-color: white;
+    
+      }
+      .div10{
+        background-image: url("https://thumbs.dreamstime.com/b/couple-having-relationship-counselling-female-counsellor-31172858.jpg");
+          background-repeat: no-repeat;
+          background-size: cover;
+          width: 633px;
+          height: 400px;
+        float: left;
+      }
+      .div11{
+        color: white;
+        height: 1000px;
+        width: 100%;
+         background-color:black;
+    
+      }
+      .div12{
+        background-color: red;
+        height: 200px;  
+      }
+      .setting1{
+        font-size: 20px;
+        color: white;
+        margin-top: 90px;
+        margin-left: 90px;
+        float: left;
+      }
+      .phone{
+        font-size: 10px;
+        color: white;
+        float: left;
+        margin-top: 30px;
+        margin-left: 90px;
+        
+      }
+      /* .labtop{
+        font-size: 15px;
+        color: white;
+      } */
+      .frees{
+        font-size: 15px;
+        color: white;
+        float: left;
+        margin-top: 30px;
+        margin-left: 90px;
+      }
+      .page{
+        font-size: 10px;
+        color: white;
+        float: left;
+        margin-top: 30px;
+        margin-left: 160px;
+
+      }
+      .network{
+        float: left;
+        color: white;
+        margin-top: 80px;
+        margin-left: 180px;
+      }
+
+
+  

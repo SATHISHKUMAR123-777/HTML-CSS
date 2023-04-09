@@ -1,3 +1,32 @@
-tr:hover{
-    background-color: orange;
+h1{
+    
+    font-size: 45px;
+}
+.hover1{
+    background-color: blue;
+    width: 1100px;
+}
+ul{
+    list-style-type: none;
+    
+    padding: 25px;
+    color: white;
+    
+}
+ul li{
+    font-size: 30px;
+    display: inline;
+    /* padding: 50px; */
+    margin-left: 60px;
+}
+ul li:hover{
+    color:rgb(3, 3, 34) ;
+    background-color: aqua;
+}
+.un{
+    text-decoration: underline;
+    color: white
+}
+.ha{
+    margin-left: 120px;
 }

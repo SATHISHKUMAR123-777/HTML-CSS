@@ -1,0 +1,70 @@
+
+body{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlHAFssvo0pIcY25_NRU6uJNURK2Q4vTB_1taSt9Vu&s") ;
+    background-size: cover;
+}
+.os{
+
+font-size: 60px;
+   color:yellow;
+
+}
+.os1{
+    font-size: 60px;
+    color: white;
+}
+ul{
+    background-color:rgba(245, 243, 237,0.5);
+    list-style-type: none;
+     padding: 20px;
+    
+}
+ul li{
+    font-size: 35px;
+    display: inline;
+     margin-left: 50px; 
+    padding: 70px; 
+}
+.dir{
+    
+    width: 2700px;
+    
+}
+.face{
+    color: blue;
+    font-size: 80px;
+    margin-top: 300px;
+    margin-left: 1000px;
+}
+.face1{
+    color: blue;
+    font-size: 80px;
+    /* margin-top: 400px; */
+    margin-left: 30px;
+
+}
+.face2{
+        color: orange;
+    font-size: 80px;
+    /* margin-top: 400px; */
+    margin-left: 30px;
+}
+.hea{
+    word-spacing: 8px;
+    color: gray;
+    margin-left: 950px;
+    font-size: 70px;
+}
+.sto{
+    color: white;
+    margin-left: 700px;
+    font-size: 150px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.p1{
+    font-size: 50px;
+    /* text-align: center; */
+    margin-left: 500px;
+}
+
+   
